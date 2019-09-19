@@ -8,5 +8,5 @@ How to install!
 1]after cloning git repo
 2]create a database name "javasql".
 3]Then import the given tables.
-4]Change the mysql password if you have one and the user in mysql if you want.
+4]Change the mysql passwordin java files if you have one, and the user in mysql if you want.(i have used root user in my java files, means the musql root user).
 5]Import the project in your netbeans, add library(mysql) and then your good too goo.
