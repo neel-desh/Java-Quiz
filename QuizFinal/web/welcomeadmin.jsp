@@ -9,7 +9,7 @@
 <%@page language="java" contentType="text/html" pageEncoding="UTF-8"%>
 <%
     
-if(session.getAttribute("username")==null){
+if(session.getAttribute("UserType")==null){
 response.sendRedirect("login.jsp");
 }
 
